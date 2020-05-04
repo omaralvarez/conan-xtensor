@@ -1,4 +1,5 @@
-[ ![Download](https://api.bintray.com/packages/omaralvarez/public-conan/xtensor%3Aomaralvarez/images/download.svg?version=0.20.10%3Apublic-conan) ](https://bintray.com/omaralvarez/public-conan/xtensor%3Aomaralvarez/0.20.10%3Apublic-conan/link) ![travis](https://travis-ci.org/omaralvarez/conan-xtensor.svg?branch=master)
+[ ![Download](https://api.bintray.com/packages/omaralvarez/public-conan/xtensor%3Aomaralvarez/images/download.svg?version=0.20.10%3Apublic-conan) ](https://bintray.com/omaralvarez/public-conan/xtensor%3Aomaralvarez/0.20.10%3Apublic-conan/link) [![Build Status](https://travis-ci.org/omaralvarez/conan-xtensor.svg?branch=0.20.10)](https://travis-ci.org/omaralvarez/conan-xtensor) [![Build status](https://ci.appveyor.com/api/projects/status/hwsxwdd84keuscbq?svg=true)](https://ci.appveyor.com/project/omaralvarez/conan-xtensor)
+
 
 # conan-xtensor
     
