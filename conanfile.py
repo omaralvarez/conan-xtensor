@@ -17,7 +17,7 @@ class XtensorConan(ConanFile):
     # TODO Add option for tbb
 
     def source(self):
-        self.run("git clone -b '%s' --single-branch --depth 1 %s" % (self.version, self.repo_url))
+        self.run("git clone -b %s --single-branch --depth 1 %s" % (self.version, self.repo_url))
     
     def requirements(self):
         self.requires.add('xtl/0.6.7@omaralvarez/public-conan')
